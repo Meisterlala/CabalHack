@@ -1,0 +1,174 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <CheatTable CheatEngineTableVersion="28">
+        <CheatEntries>
+            <CheatEntry>
+                <ID>0</ID>
+                <Description>"05/02/2019 19:53:55"</Description>
+                <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+                <LastState Value="" Activated="1" RealAddress="00000000"/>
+                <GroupHeader>1</GroupHeader>
+                <CheatEntries>
+                <CheatEntry>
+                    <ID>1</ID>
+                    <Description>"Base"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <ShowAsHex>1</ShowAsHex>
+                    <Address>C39340</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>2</ID>
+                    <Description>"baseCam"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <ShowAsHex>1</ShowAsHex>
+                    <Address>C69CF0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>3</ID>
+                    <Description>"bypassHackDetection"</Description>
+                    <VariableType>Array of byte</VariableType>
+                    <ShowAsHex>1</ShowAsHex>
+                    <ByteLength>6</ByteLength>
+                    <Address>5440EF</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>4</ID>
+                    <Description>"castingTime"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C7EA24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>5</ID>
+                    <Description>"comboTime"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C7AC95</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>6</ID>
+                    <Description>"dex"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C7AB3C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>7</ID>
+                    <Description>"fullZoom1"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>C5983C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>8</ID>
+                    <Description>"fullZoom2"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>C59840</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>9</ID>
+                    <Description>"game"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>400000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>10</ID>
+                    <Description>"id"</Description>
+                    <VariableType>String</VariableType>
+                    <ShowAsHex>1</ShowAsHex>
+                    <Length>99</Length>
+                    <Unicode>0</Unicode>
+                    <CodePage>0</CodePage>
+                    <ZeroTerminate>1</ZeroTerminate>
+                    <Address>C5D778</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>11</ID>
+                    <Description>"intele"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C7AB38</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>12</ID>
+                    <Description>"level"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>8DA9BDC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>13</ID>
+                    <Description>"nation"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C76484</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>14</ID>
+                    <Description>"pickupRange1"</Description>
+                    <VariableType>Array of byte</VariableType>
+                    <ByteLength>3</ByteLength>
+                    <Address>F02F983</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>15</ID>
+                    <Description>"pickupRange2"</Description>
+                    <VariableType>Array of byte</VariableType>
+                    <ByteLength>3</ByteLength>
+                    <Address>F02F883</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>16</ID>
+                    <Description>"skillCoolDown"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>8E9FDC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>17</ID>
+                    <Description>"skillDelay"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C7ABBC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>18</ID>
+                    <Description>"str"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>9C7AB34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>19</ID>
+                    <Description>"tp"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>02E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>20</ID>
+                    <Description>"wallBase"</Description>
+                    <VariableType>Array of byte</VariableType>
+                    <ShowAsHex>1</ShowAsHex>
+                    <ByteLength>200</ByteLength>
+                    <Address>1060D10</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>21</ID>
+                    <Description>"wallHackDetection"</Description>
+                    <VariableType>Array of byte</VariableType>
+                    <ShowAsHex>1</ShowAsHex>
+                    <ByteLength>6</ByteLength>
+                    <Address>84AC09</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>22</ID>
+                    <Description>"x"</Description>
+                    <VariableType>Float</VariableType>
+                    <Address>9C7637C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>23</ID>
+                    <Description>"y"</Description>
+                    <VariableType>Float</VariableType>
+                    <Address>9C76380</Address>
+                </CheatEntry>
+                <CheatEntry>
+                    <ID>24</ID>
+                    <Description>"zoom"</Description>
+                    <VariableType>4 Bytes</VariableType>
+                    <Address>5F3B32</Address>
+                </CheatEntry>
+            </CheatEntries>
+        </CheatEntry>
+    </CheatEntries>
+    <UserdefinedSymbols/>
+</CheatTable>
