@@ -1,4 +1,4 @@
-# CabalHack
+# Cabal Hack
 An outdated, never released Cabal hack with xigncode bypass.
 
 **probably doesn't work anymore!**
